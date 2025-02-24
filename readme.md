@@ -87,7 +87,7 @@ Os seguintes detalhes foram fornecidos pelo time de engenharia:
 
 ## Pagamento e Saída
 
-2. __Pagamento Integrado e Saída Segura:__ Ao finalizar a compra, o cliente realiza o pagamento através de um gateway integrado. Uma nota fiscal digital é enviada para o aplicativo do cliente, que pode então sair do supermercado após uma nova validação facial.
+__Pagamento Integrado e Saída Segura:__ Ao finalizar a compra, o cliente realiza o pagamento através de um gateway integrado. Uma nota fiscal digital é enviada para o aplicativo do cliente, que pode então sair do supermercado após uma nova validação facial.
 
 Os seguintes detalhes foram fornecidos pelo time de engenharia:  
 
